@@ -6,6 +6,7 @@ Keys pressed: ```<up><up><enter>```. The ```ssh a2velasco@ieng6.ucsd.edu``` comm
 ![image2](image2.png)
 Keys pressed: ```<g><i><t><space><c><l><o><tab><ctrl+p><enter>```. Tab autocompletes clone and I pasted ```git@github.com:a2velasco/lab7.git``` from copying the link from github. 
 ## Step 3: Run the failing tests
-
+![image3](image3.png)
 Keys pressed: ```<c><d><space><l><tab><enter>```. Change to lab7 directory using tab to autocomplete the path.
+
 Keys pressed: ```<b><a><s><h><space><t><tab><enter>```. Run the failing tests and use tab to autocomplete ```test.sh```.
