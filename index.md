@@ -11,7 +11,10 @@ Keys pressed: ```<c><d><space><l><tab><enter>```. Change to lab7 directory using
 
 Keys pressed: ```<b><a><s><h><space><t><tab><enter>```. Run the failing tests and use tab to autocomplete ```test.sh```.
 ## Step 4: Edit code to fix test
-
+![image4](image4.png)
 Keys pressed: ```<v><i><space><L><tab><.><j><tab><enter>```. Enter vim to edit the file.
 
 Keys pressed: ```<:><4><4><enter><e><r><2><:><w><q>```. Jump to the line where the error is and replace the 1 with a 2, then save and quit.
+## Step 5: Run the fixed tests
+
+Keys pressed: ```<up><up><enter>```. The ```bash test.sh``` command was up two in the bash history.
