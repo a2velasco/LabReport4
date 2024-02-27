@@ -10,3 +10,8 @@ Keys pressed: ```<g><i><t><space><c><l><o><tab><ctrl+p><enter>```. Tab autocompl
 Keys pressed: ```<c><d><space><l><tab><enter>```. Change to lab7 directory using tab to autocomplete the path.
 
 Keys pressed: ```<b><a><s><h><space><t><tab><enter>```. Run the failing tests and use tab to autocomplete ```test.sh```.
+## Step 4: Edit code to fix test
+
+Keys pressed: ```<v><i><space><L><tab><.><j><tab><enter>```. Enter vim to edit the file.
+
+Keys pressed: ```<:><4><4><enter><e><r><2><:><w><q>```. Jump to the line where the error is and replace the 1 with a 2, then save and quit.
