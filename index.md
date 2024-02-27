@@ -14,7 +14,13 @@ Keys pressed: ```<b><a><s><h><space><t><tab><enter>```. Run the failing tests an
 ![image4](image4.png)
 Keys pressed: ```<v><i><space><L><tab><.><j><tab><enter>```. Enter vim to edit the file.
 
-Keys pressed: ```<:><4><4><enter><e><r><2><:><w><q>```. Jump to the line where the error is and replace the 1 with a 2, then save and quit.
+Keys pressed: ```<:><4><4><enter><e><r><2><:><w><q><enter>```. Jump to the line where the error is and replace the 1 with a 2, then save and quit.
 ## Step 5: Run the fixed tests
-
+![image5](image5.png)
 Keys pressed: ```<up><up><enter>```. The ```bash test.sh``` command was up two in the bash history.
+## Step 6: Commit and Push changes to GitHub
+Keys pressed: ```<g><i><t><space><a><d><d><space><L><tab><enter>```. Add the file that was modified and ready for commit.
+
+Keys pressed: ```<g><i><t><space><c><o><m><tab><-><m> "message" <enter>```. Commit the file with updated message.
+
+Keys pressed: ```<g><i><t><space><p><u><s><h><space><tab><m><tab><enter>```. Push the changes back to main branch.
